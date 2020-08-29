@@ -7,7 +7,7 @@
 - 💬 Ask me about Python, Ruby, Sql
 - ⚡ Fun fact I like 16 songs accross 1 albums. I have 4 playlists of awesome music.
 
-Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
+Imagination is more important than knowledge.
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="20" height="20"/>
