@@ -7,7 +7,7 @@
 - 💬 Ask me about Python, Ruby, Sql
 - ⚡ Fun fact I like 16 songs accross 1 albums. I have 4 playlists of awesome music.
 
-Documentation is a love letter that you write to your future self.
+In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="20" height="20"/>
