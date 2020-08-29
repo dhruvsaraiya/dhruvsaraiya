@@ -7,7 +7,7 @@
 - 💬 Ask me about Python, Ruby, Sql
 - ⚡ Fun fact I like 7 songs accross 1 albums. I have 5 playlists of awesome music.
 
-A language that doesn’t have everything is actually easier to program in than some that do.
+The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="20" height="20"/>
