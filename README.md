@@ -5,9 +5,9 @@
 - 🌱 I’m currently learning Front-end development.
 - 🤔 I’m looking for help with ReactJS
 - 💬 Ask me about Python, Ruby, Sql
-- ⚡ Fun fact I like 7 songs accross 1 albums. I have 4 playlists of awesome music.
+- ⚡ Fun fact I like 7 songs accross 1 albums. I have 5 playlists of awesome music.
 
-The limits of my language mean the limits of my world.
+Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="20" height="20"/>
