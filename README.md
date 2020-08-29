@@ -7,7 +7,7 @@
 - 💬 Ask me about Python, Ruby, Sql
 - ⚡ Fun fact I like 6 songs accross 0 albums. I have 4 playlists of awesome music.
 
-I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
+If you think your users are idiots, only idiots will use it.
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="20" height="20"/>
