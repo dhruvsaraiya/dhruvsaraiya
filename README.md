@@ -5,11 +5,10 @@
 - 🌱 I’m currently learning Front-end development.
 - 🤔 I’m looking for help with ReactJS
 - 💬 Ask me about Python, Ruby, Sql
-- ⚡ Fun fact I like undefined songs accross undefined albums. I have undefined playlists of awesome music.
+- ⚡ Fun fact I like 6 songs accross 0 albums. I have 4 playlists of awesome music.
 
-When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+The way to arrest entropy in software is to refactor it.
 
-<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="20" height="20"/>
@@ -18,4 +17,3 @@ When program developers are not territorial about their code and encourage other
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="20" height="20"/>
-</p>

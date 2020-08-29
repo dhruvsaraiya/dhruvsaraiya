@@ -1,14 +1,15 @@
 require("isomorphic-unfetch");
+require("dotenv").config();
+
 const { promises: fs } = require("fs");
 const path = require("path");
 
-const clientId = process.env.CLIENT_ID;
-const clientSecret = process.env.CLIENT_SECRET;
-const refreshToken = process.env.REFRESH_TOKEN;
+const clientId = process.env.SPOTIFY_CLIENT_ID;
+const clientSecret = process.env.SPOTIFY_CLIENT_SECRET;
+const refreshToken = process.env.SPOTIFY_REFRESH_TOKEN;
 const port = process.env.PORT;
 
 async function main() {
-  console.log("BC  :", clientId, clientSecret);
 
   const readmeTemplate = (
     await fs.readFile(path.join(process.cwd(), "./README.template.md"))
