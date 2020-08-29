@@ -7,7 +7,7 @@
 - 💬 Ask me about Python, Ruby, Sql
 - ⚡ Fun fact I like 16 songs accross 1 albums. I have 4 playlists of awesome music.
 
-By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
+There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="20" height="20"/>
