@@ -5,9 +5,9 @@
 - 🌱 I’m currently learning Front-end development.
 - 🤔 I’m looking for help with ReactJS
 - 💬 Ask me about Python, Ruby, Sql
-- ⚡ Fun fact I like 12 songs accross 1 albums. I have 4 playlists of awesome music.
+- ⚡ Fun fact I like 16 songs accross 1 albums. I have 4 playlists of awesome music.
 
-A picture may be worth a thousand words, a formula is worth a thousand pictures.
+It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="20" height="20"/>
