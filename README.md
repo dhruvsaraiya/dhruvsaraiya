@@ -5,9 +5,9 @@
 - 🌱 I’m currently learning Front-end development.
 - 🤔 I’m looking for help with ReactJS
 - 💬 Ask me about Python, Ruby, Sql
-- ⚡ Fun fact I like 7 songs accross 1 albums. I have 5 playlists of awesome music.
+- ⚡ Fun fact I like 12 songs accross 1 albums. I have 4 playlists of awesome music.
 
-The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
+A picture may be worth a thousand words, a formula is worth a thousand pictures.
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="20" height="20"/>
