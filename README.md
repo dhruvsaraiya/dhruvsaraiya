@@ -7,15 +7,13 @@
 - 💬 Ask me about Python, Ruby, Sql
 - ⚡ Fun fact I like undefined songs accross undefined albums. I have undefined playlists of awesome music.
 
-When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+Flaws in computer programs are usually called bugs. It makes programmers feel good to imagine them as little things that just happen to crawl into our work. In reality, of course, we put them there ourselves.
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="20" height="20"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg.svg" alt="python" width="20" height="20"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/python-plain-wordmark.svg.svg" alt="ruby" width="20" height="20"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain-wordmark.svg.svg" alt="rails" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="20" height="20"/>
-</p>
