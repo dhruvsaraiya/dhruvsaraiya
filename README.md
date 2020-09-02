@@ -7,7 +7,7 @@
 - 💬 Ask me about Python, Ruby, Sql
 - ⚡ Fun fact I like 16 songs accross 1 albums. I have 4 playlists of awesome music.
 
-Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
+Programming is at least as difficult as developing a mathematical theory.
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
