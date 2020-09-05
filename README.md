@@ -7,7 +7,7 @@
 - 💬 Ask me about Python, Ruby, Sql
 - ⚡ Fun fact I like 16 songs accross 1 albums. I have 4 playlists of awesome music.
 
-Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
+The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
