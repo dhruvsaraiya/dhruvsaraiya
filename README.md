@@ -7,7 +7,7 @@
 - 💬 Ask me about Python, Ruby, Sql
 - ⚡ Fun fact I like 16 songs accross 1 albums. I have 4 playlists of awesome music.
 
-If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
+Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
