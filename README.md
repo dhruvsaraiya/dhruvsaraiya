@@ -7,8 +7,7 @@
 - 💬 Ask me about Python, Ruby, Sql
 - ⚡ Fun fact I like 16 songs accross 1 albums. I have 4 playlists of awesome music.
 
-If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
+Young man, in mathematics you don't understand things. You just get used to them.
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
