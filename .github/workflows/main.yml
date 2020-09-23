@@ -1,8 +1,8 @@
-name: Generate README day at mid-night
+name: Generate README day at every month
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 1 * *"
   workflow_dispatch:
 
 jobs:
