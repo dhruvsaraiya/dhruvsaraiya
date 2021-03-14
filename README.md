@@ -2,9 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 - 🔭 I’m currently working on a FinTech product at a Software Company based out of Ahmedabad.
-- 🌱 I’m currently learning Front-end development.
-- 🤔 I’m looking for help with ReactJS
-- 💬 Ask me about Python, Ruby, Sql
+- 💬 Ask me about Python, Ruby, Sql, ReactJs, TypeScript, Postgres, Mongo.
 - ⚡ Fun fact I like 16 songs accross 1 albums. I have 4 playlists of awesome music.
 
 If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
