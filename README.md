@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Dhruv</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on a FinTech product at a Software Company based out of Ahmedabad.
+- 🔭 I’m currently working on a SaaS product at a Software Company based out of Ahmedabad.
 - 💬 Ask me about Python, Ruby, Sql, ReactJs, TypeScript, Postgres, Mongo.
 - ⚡ Fun fact I like 16 songs accross 1 albums. I have 4 playlists of awesome music.
 
