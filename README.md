@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working as a Software Engineer @GitHub.
 - 💬 Ask me about Python, Ruby, Sql, ReactJs, TypeScript, Postgres, Mongo, Golang.
-- ⚡ Fun fact I like 16 songs accross 1 albums. I have 4 playlists of awesome music.
 
 If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
 
