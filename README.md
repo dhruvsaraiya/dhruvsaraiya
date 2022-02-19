@@ -20,4 +20,4 @@
 
 ### &#x1f4c8; GitHub Stats
 
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvsaraiya&hide=stars&count_private=true&show_icons=true)
+![Dhruv's GitHub stats](https://dhruvsaraiya-github-stats.vercel.app/api?username=dhruvsaraiya&hide=stars&count_private=true&show_icons=true)
