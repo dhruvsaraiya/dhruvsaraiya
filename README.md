@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 - 🔭 I’m currently working as a Software Engineer @GitHub.
-- 💬 Ask me about Python, Ruby, Sql, ReactJs, TypeScript, Postgres, Mongo, Golang.
+- 💬 Ask me about Ruby, Golang, Python, Sql, ReactJs, TypeScript, Postgres, Mysql, Mongo.
 
 If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
 
