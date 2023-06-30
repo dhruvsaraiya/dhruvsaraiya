@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px" />, I'm Dhruv</h1>
 <h3 align="center">Software engineer from India</h3>
 
-- 🔭 I’m currently working @GitHub.
+- 🔭 I’m currently working @Microsoft.
 - 💬 Ask me about Ruby, Golang, Python, Sql, ReactJs, TypeScript, Postgres, Mysql, Mongo.
 
 ### 🔧 Technologies & Tools
